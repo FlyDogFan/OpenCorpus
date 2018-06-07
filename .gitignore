@@ -50,3 +50,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 .idea/
+jpcorpus/ja_gsd-ud-dev.txt
+jpcorpus/ja_gsd-ud-test.txt
+jpcorpus/ja_gsd-ud-train.txt
