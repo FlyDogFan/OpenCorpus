@@ -53,3 +53,10 @@ fabric.properties
 jpcorpus/ja_gsd-ud-dev.txt
 jpcorpus/ja_gsd-ud-test.txt
 jpcorpus/ja_gsd-ud-train.txt
+pku98
+!pku98/199801.txt
+!pku98/README.md
+zhuxian/dev.txt
+zhuxian/eacl14mszhang/
+zhuxian/test.txt
+zhuxian/train.txt
