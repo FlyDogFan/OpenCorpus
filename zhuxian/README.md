@@ -11,7 +11,7 @@ Converted from original dataset for paper [Type-Supervised Domain Adaptation for
 ```bash
 wget https://zhangmeishan.github.io/eacl14mszhang.zip
 unzip eacl14mszhang.zip
-python3 make
+python3 make.py
 ```
 
 You'll get 3 `.txt` files in this folder. The format follows PKU, one sample from the `train.txt` is:
