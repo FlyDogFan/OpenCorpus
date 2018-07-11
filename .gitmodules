@@ -1,3 +1,6 @@
 [submodule "jpcorpus/UD_Japanese-GSD"]
 	path = jpcorpus/UD_Japanese-GSD
 	url = https://github.com/UniversalDependencies/UD_Japanese-GSD.git
+[submodule "udc/UD_Chinese-GSD"]
+	path = udc/UD_Chinese-GSD
+	url = https://github.com/UniversalDependencies/UD_Chinese-GSD.git
